@@ -1,1 +1,1 @@
-This feature allows you to download all the integrations or reports. For example, when you are on an integration and click on the download button, the extension will download all the integration-related CLAR, ISU, ISSG, XSLTs, Business Process, Report Services, and its calculated fields*.
+*We are aware of the issue not being able to extract all calculated fields when there are more than 30 columns in the report definition. We are actively working to fix this issue.
