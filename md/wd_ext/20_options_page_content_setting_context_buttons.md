@@ -1,1 +1,1 @@
-This option is to enable or disable the context action on Workday actionable objects.
+This option is to enable ✅ or disable ❎ the context action on Workday actionable objects.
